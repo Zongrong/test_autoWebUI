@@ -1,0 +1,15 @@
+
+test.cases.example.ExampleCases
+
+	testCreateRepository - passed
+
+		verifyPoint - passed
+		verifyPoint - passed
+
+	testDeleteRepository - passed
+
+Total cases: 2,passed: 2,failed: 0
+
+=======================================================
+
+TOTAL CASES: 2,passed: 2,failed: 0

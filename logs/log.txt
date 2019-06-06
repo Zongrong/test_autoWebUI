@@ -1,0 +1,15 @@
+
+2019-06-07 04:50:53.327 Start to run test.cases.example.ExampleCases: initClass
+2019-06-07 04:50:53.351 Finish to run test.cases.example.ExampleCases: initClass
+2019-06-07 04:50:53.353 Start to run test.cases.example.ExampleCases: init
+2019-06-07 04:50:57.300 Finish to run test.cases.example.ExampleCases: init
+2019-06-07 04:50:57.302 Start to run case test.cases.example.ExampleCases: testCreateRepository
+2019-06-07 04:51:10.130 Finish to run casetest.cases.example.ExampleCases: testCreateRepository :passed
+2019-06-07 04:51:10.130 Start to run test.cases.example.ExampleCases: clean
+2019-06-07 04:51:11.365 Finish to run test.cases.example.ExampleCases: clean
+2019-06-07 04:51:11.368 Start to run test.cases.example.ExampleCases: init
+2019-06-07 04:51:14.009 Finish to run test.cases.example.ExampleCases: init
+2019-06-07 04:51:14.010 Start to run case test.cases.example.ExampleCases: testDeleteRepository
+2019-06-07 04:51:24.240 Finish to run casetest.cases.example.ExampleCases: testDeleteRepository :passed
+2019-06-07 04:51:24.240 Start to run test.cases.example.ExampleCases: clean
+2019-06-07 04:51:25.473 Finish to run test.cases.example.ExampleCases: clean
